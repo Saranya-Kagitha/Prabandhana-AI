@@ -1,0 +1,216 @@
+Create a complete modern web application called "Prabandhana AI".
+
+Tagline:
+"AI-Powered Supply Chain Resilience & Global Operations Command Center"
+
+Purpose:
+Build an enterprise-grade AI platform for manufacturing companies to manage supply chain disruptions, inventory shortages, logistics risks, and supplier failures.
+
+Requirements:
+
+1. Dashboard
+- Total Suppliers
+- Active Orders
+- Inventory Health
+- Fulfillment Rate
+- At-Risk Suppliers
+- Recovery Time
+- Risk Score
+- Logistics Cost
+- Professional KPI Cards
+
+2. Real-Time Tracking
+Create live updating sections:
+- Supplier Status
+- Shipment Tracking
+- Warehouse Status
+- Inventory Levels
+- Production Status
+- Logistics Status
+
+Use:
+🟢 Normal
+🟡 Warning
+🔴 Critical
+
+Auto refresh every few seconds.
+
+3. Multi-Agent AI System
+Create:
+- Demand Agent
+- Inventory Agent
+- Supplier Risk Agent
+- Logistics Agent
+- Financial Agent
+- Coordinator Agent
+
+Each agent should show:
+- Confidence %
+- Risk Analysis
+- Recommendations
+
+Coordinator Agent combines all outputs and generates the final recovery strategy.
+
+4. Disruption Simulator
+Inputs:
+- Supplier
+- Product
+- Region
+- Shutdown Duration
+- Transport Mode
+
+Button:
+"Run AI Analysis"
+
+Outputs:
+- Risk Assessment
+- Impact Analysis
+- Business Constraints
+- Recovery Plan
+- Alternative Suppliers
+- Recovery Duration
+
+5. AI Recommendation Engine
+Show:
+- Recommended Supplier
+- Estimated Cost Impact
+- Confidence Score
+- Recovery Time
+- Logistics Strategy
+- Inventory Reallocation Plan
+- Production Rescheduling Plan
+
+6. Demand vs Supply Analytics
+Create a professional line chart.
+
+Blue Line = Demand
+Green Line = Supply
+
+Show 12 months data.
+
+Display warning:
+"Supply Shortage Predicted"
+when demand exceeds supply.
+
+Also show:
+- Demand Forecast
+- Inventory Forecast
+- Supply Forecast
+
+7. Multi-Language Support
+Add language selector supporting:
+
+English
+Telugu
+Hindi
+Tamil
+Kannada
+Malayalam
+Marathi
+Bengali
+Gujarati
+Punjabi
+Spanish
+French
+German
+Chinese
+Japanese
+Arabic
+Russian
+Portuguese
+
+8. Multi-Currency Support
+
+Add currency selector:
+USD
+INR
+EUR
+GBP
+JPY
+CNY
+AED
+CAD
+AUD
+SGD
+
+Automatically display costs in selected currency.
+
+9. Voice Assistant
+
+Add microphone button:
+
+"Ask Prabandhana AI"
+
+Voice Commands:
+- Show supplier risks
+- Show inventory status
+- Generate recovery plan
+- Show logistics delays
+- Find alternate supplier
+
+10. AI Chatbot
+
+Floating chatbot:
+"Prabandhana AI Assistant"
+
+Capabilities:
+- Supply chain Q&A
+- Inventory Insights
+- Logistics Insights
+- Risk Explanation
+- Recovery Recommendations
+
+11. Market Intelligence Feed
+
+Auto-updating section showing:
+- Technology Updates
+- Supplier Risk Alerts
+- Global Market Trends
+- Fuel Price Changes
+- Port Congestion Alerts
+- Industry News
+
+12. Reports
+
+Generate:
+- Supply Chain Report
+- Inventory Report
+- Risk Assessment Report
+- Financial Impact Report
+
+Export buttons:
+PDF
+Excel
+CSV
+
+13. Global View
+
+Display global map showing:
+- Supplier Locations
+- Warehouses
+- Logistics Routes
+- Risk Zones
+
+14. UI Requirements
+
+- Professional enterprise design
+- Dark and Light Mode
+- Responsive Design
+- Modern Glassmorphism
+- Charts and Analytics
+- Executive Dashboard Style
+- Premium animations
+- Attractive cards
+
+15. Important
+
+Generate all pages completely.
+
+Use realistic manufacturing supply chain data.
+
+Do not generate placeholders.
+
+Provide a working preview and deployment-ready application.
+
+Project Name Everywhere:
+"Prabandhana AI"
